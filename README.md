@@ -1,18 +1,8 @@
-## Getting Started
+##Najdi cislo
+******************************************************************************************
+Hra najdi cislo je napisana v Java 17.0.3 (Raspberry pi4). 
+Hra pozostava z casti kde hrac zada potrebne variacie:
+  >maximalny rozsah
+  >maximalny pocet tahov (menej ako 1/2 maximalneho rozsahu)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+nasledne hrac hada cislo. Hra nevypisuje ci cislo ktore hrac skusal je vacsie alebo mensie ako hadane cislo. Hra ukazuje hracovi aktualny pocet este moznych tahov a nasledne sa potom hra spita ci chce hrat znova alebo nie. Ak nie. Tak sa hra ukonci.
