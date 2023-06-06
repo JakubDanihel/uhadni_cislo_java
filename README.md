@@ -2,6 +2,7 @@
 ******************************************************************************************
 Hra najdi cislo je napisana v Java 17.0.3 (Raspberry pi4). 
 Hra pozostava z casti kde hrac zada potrebne variacie:
+
   >maximalny rozsah
   >maximalny pocet tahov (menej ako 1/2 maximalneho rozsahu)
 
