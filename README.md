@@ -1,6 +1,6 @@
 ##Najdi cislo
 ******************************************************************************************
-Hra najdi cislo je napisana v Java 17.0.3 (Raspberry pi4). 
+Hra najdi cislo je napisana v Java (openJDK 17.0.3 Raspberry pi4). 
 Hra pozostava z casti kde hrac zada potrebne variacie:
 
   >maximalny rozsah
